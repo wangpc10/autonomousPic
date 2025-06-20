@@ -19,6 +19,9 @@
             <mxPoint x="519" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IDEg-fBgCbeOOt2mDnCn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DoSd--SVkFHXXzcMJrt8-1" target="Xs7G6l3jAfG7EWZT0IZV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DoSd--SVkFHXXzcMJrt8-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;作业APP(client)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="320" y="370" width="280" height="60" as="geometry" />
         </mxCell>
