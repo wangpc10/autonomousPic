@@ -201,7 +201,7 @@
         <mxCell id="YufgchmQRb-ahDR3VVzE-8" value="&lt;font style=&quot;font-size: 14px; color: rgb(255, 51, 51);&quot;&gt;系统自检&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="YufgchmQRb-ahDR3VVzE-33">
           <mxGeometry x="360" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YufgchmQRb-ahDR3VVzE-34" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;初始状态设定&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="YufgchmQRb-ahDR3VVzE-34" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;b&gt;初始状态设定&lt;/b&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="590" y="205" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
