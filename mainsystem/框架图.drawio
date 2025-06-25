@@ -207,7 +207,7 @@
             <mxRectangle width="330" height="61" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YufgchmQRb-ahDR3VVzE-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 20px; font-weight: 400; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;out_system_state&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
+        <mxCell id="YufgchmQRb-ahDR3VVzE-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Droid Sans Mono&amp;quot;, &amp;quot;monospace&amp;quot;, monospace; font-size: 20px; font-weight: 400; white-space: pre; background-color: rgb(255, 255, 255);&quot;&gt;out_system_state&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;0:系统初始化 1:系统自检&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;2:手动驾驶 3:自动驾驶&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;color: rgb(51, 51, 51); font-size: 16px;&quot;&gt;4:&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="1">
           <mxGeometry x="40" y="-240" width="240" height="160" as="geometry" />
         </mxCell>
       </root>
