@@ -222,7 +222,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="29jDEt2j5qHNZKVeszQH-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="310" y="300" width="1613" height="579" as="geometry" />
+          <mxGeometry x="310" y="300" width="1620" height="790" as="geometry" />
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Out_run_mode(整数类型)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" collapsed="1" parent="29jDEt2j5qHNZKVeszQH-1">
           <mxGeometry y="519" width="283" height="50" as="geometry">
@@ -233,7 +233,7 @@
           <mxGeometry x="12" y="30" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-4" value="" style="group" vertex="1" connectable="0" parent="29jDEt2j5qHNZKVeszQH-1">
-          <mxGeometry x="125" width="1488" height="579" as="geometry" />
+          <mxGeometry x="125" width="1495" height="790" as="geometry" />
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0B4D6A;" edge="1" parent="29jDEt2j5qHNZKVeszQH-4" source="29jDEt2j5qHNZKVeszQH-7" target="29jDEt2j5qHNZKVeszQH-14">
           <mxGeometry relative="1" as="geometry" />
@@ -246,7 +246,7 @@
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Out_drive_mode(整数类型)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" collapsed="1" parent="29jDEt2j5qHNZKVeszQH-4">
           <mxGeometry x="965" y="279" width="280" height="50" as="geometry">
-            <mxRectangle x="520" y="-1040" width="290" height="200" as="alternateBounds" />
+            <mxRectangle x="965" y="279" width="290" height="200" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-9" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent; font-weight: normal;&quot;&gt;1:自动驾驶&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2:平板遥控&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3:手柄遥控&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;其他值:未命名状态&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="29jDEt2j5qHNZKVeszQH-8">
@@ -260,12 +260,12 @@
         <mxCell id="29jDEt2j5qHNZKVeszQH-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); font-size: 16px; background-color: transparent; font-weight: normal;&quot;&gt;0:正常状态，未急停&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1:急停状态&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="29jDEt2j5qHNZKVeszQH-10">
           <mxGeometry x="10" y="40" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="29jDEt2j5qHNZKVeszQH-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Out_work_state(整数类型)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" collapsed="1" parent="29jDEt2j5qHNZKVeszQH-4">
-          <mxGeometry x="295" y="519" width="283" height="60" as="geometry">
-            <mxRectangle x="930" y="-1050" width="290" height="210" as="alternateBounds" />
+        <mxCell id="29jDEt2j5qHNZKVeszQH-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Out_work_state(整数类型)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" parent="29jDEt2j5qHNZKVeszQH-4">
+          <mxGeometry x="295" y="519" width="290" height="271" as="geometry">
+            <mxRectangle x="295" y="519" width="283" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="29jDEt2j5qHNZKVeszQH-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent; font-weight: normal;&quot;&gt;1:导航 2:泊车 3:入库 4:加水中&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5:充电中 6:倒垃圾中 7:入库&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;8:加水中 9:充电中 10:倒垃圾中 11:避雨中 12:返航中&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;其他值:空闲&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="29jDEt2j5qHNZKVeszQH-12">
+        <mxCell id="29jDEt2j5qHNZKVeszQH-13" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent; font-weight: normal;&quot;&gt;1:导航 2:泊车 3:入库 4:加水中&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5:充电中 6:倒垃圾中 7:入库(自动)&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;8:加水中(自动) 9:充电中(自动) 10:倒垃圾中 (自动)11:避雨中 12:返航中&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;其他值:空闲&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="29jDEt2j5qHNZKVeszQH-12">
           <mxGeometry x="10" y="50" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Out_system_state(整数类型)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" collapsed="1" parent="29jDEt2j5qHNZKVeszQH-4">
@@ -278,7 +278,7 @@
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Out_system_mode(整数类型)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" collapsed="1" parent="29jDEt2j5qHNZKVeszQH-4">
           <mxGeometry x="805" y="519" width="283" height="60" as="geometry">
-            <mxRectangle x="520" y="-760" width="290" height="150" as="alternateBounds" />
+            <mxRectangle x="805" y="519" width="290" height="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent; font-weight: normal;&quot;&gt;1:空闲 2:建图 3:录制路径&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4:自动驾驶作业 5:搜索路径&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6以及其他，为未命名状态&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="29jDEt2j5qHNZKVeszQH-16">
@@ -286,7 +286,7 @@
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Out_work_mode(整数类型)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" collapsed="1" parent="29jDEt2j5qHNZKVeszQH-4">
           <mxGeometry x="1205" y="519" width="283" height="60" as="geometry">
-            <mxRectangle x="530" y="-620" width="290" height="210" as="alternateBounds" />
+            <mxRectangle x="1205" y="519" width="290" height="210" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="29jDEt2j5qHNZKVeszQH-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px; color: light-dark(rgb(51, 51, 51), rgb(193, 193, 193)); background-color: transparent; font-weight: normal;&quot;&gt;1:IN_work_init&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2:IN_work1&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3:IN_work2&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4:IN_work3&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;其他值:IN_work5&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EEEEEE;" vertex="1" parent="29jDEt2j5qHNZKVeszQH-18">
