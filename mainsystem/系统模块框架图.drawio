@@ -88,6 +88,27 @@
         <mxCell id="m-UeTQq9-H97SZNnPh1j-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;状态&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;监控&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="95" x="385" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="m-UeTQq9-H97SZNnPh1j-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="任务管理器&lt;div&gt;(&lt;span style=&quot;color: rgb(15, 17, 21); font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; font-size: 13px; text-align: start; white-space: pre-wrap; background-color: transparent;&quot;&gt;任务状态机、任务队列、调度&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="307" x="173" y="391" as="geometry" />
+        </mxCell>
+        <mxCell id="m-UeTQq9-H97SZNnPh1j-15" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="223" y="390" as="sourcePoint" />
+            <mxPoint x="223" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-UeTQq9-H97SZNnPh1j-17" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="324" y="391" as="sourcePoint" />
+            <mxPoint x="324" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-UeTQq9-H97SZNnPh1j-19" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="433" y="392" as="sourcePoint" />
+            <mxPoint x="433" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
