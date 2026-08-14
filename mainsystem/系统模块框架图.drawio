@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="第 1 页" id="07muZD8qf5U12ox2ZoTF">
+    <mxGraphModel dx="1028" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dxR-glgyJe_diqi0V4bM-3" edge="1" parent="1" source="dxR-glgyJe_diqi0V4bM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="dxR-glgyJe_diqi0V4bM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#3399FF;" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 28px;&quot;&gt;&lt;b&gt;机器狗&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 28px;&quot;&gt;&lt;b&gt;巡检&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="140" x="11" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-2" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" value="" vertex="1">
+          <mxGeometry height="400" width="20" x="261" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-8" edge="1" parent="1" source="dxR-glgyJe_diqi0V4bM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dxR-glgyJe_diqi0V4bM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" value="&lt;font style=&quot;font-size: 22px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;占道、违规停放等异常事件&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="146" x="295" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-9" edge="1" parent="1" source="dxR-glgyJe_diqi0V4bM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" value="&lt;font style=&quot;font-size: 22px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;发现存在垃圾&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="146" x="295" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b&gt;上报云平台&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="146" x="840" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-11" edge="1" parent="1" source="dxR-glgyJe_diqi0V4bM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="dxR-glgyJe_diqi0V4bM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-14" edge="1" parent="1" source="dxR-glgyJe_diqi0V4bM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="dxR-glgyJe_diqi0V4bM-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="710" />
+              <mxPoint x="81" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#3399FF;" value="&lt;font style=&quot;font-size: 28px; color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;是否可自&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 28px; color: rgb(255, 255, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;己处理&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="230" x="570" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;否&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="800" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="dxR-glgyJe_diqi0V4bM-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;是&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="30" x="700" y="650" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ght90aH8CRQINwgccwAF" name="第 2 页">
+    <mxGraphModel dx="1028" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bDveFrpO2_MLLDYNbzbp-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;APP&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="440" x="160" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
